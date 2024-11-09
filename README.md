@@ -1,10 +1,11 @@
 # Checker Receita Digital 🩺
 
-**Checker Receita Digital** é uma ferramenta desenvolvida exclusivamente em **PHP**, nada mais feita para checkar logins de pacientes/doutores. Ele permite que o usuário que seja **Doutor** possa gerar **Receita** ou **Atestado Médico** para tal cpf inserido dentro do site.
+**Checker Receita Digital** é uma ferramenta desenvolvida exclusivamente em **PHP**, nada mais feita para checkar logins de pacientes/doutores. Ele permite que o usuário que seja **Doutor** possa gerar **Receita** ou **Atestado Médico** para tal CPF inserido dentro do site.
 
 ## 👨🏼‍⚕️ Funcionalidades
 
-- **Verificação de dados da receita**: Acesse informações de **doutor** e **paciente** vinculados a uma `receita digital`.
+- **Crie receitas médicas ou Atestados Falsos**: Dentro do painel ``Receita Digital`` do **Doutor**, terá permissão de fazer tudo o que foi dito anteriormente.
+- **É recomendado o uso de VPN, particularmente sempre uso para todos painel.**
 - **Formatos de login suportados**:
   - `Email:senha`
   - `Email|senha`
