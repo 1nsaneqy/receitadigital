@@ -22,11 +22,9 @@ Siga as etapas abaixo para rodar o **Checker Receita Digital** no seu ambiente l
 
 4. Apague todo o conteúdo dentro de `htdocs`, e cole o arquivo `api.php` do projeto.
 
-5. Abra o arquivo `api.php` com o Bloco de Notas ou qualquer editor de texto.
+5. Abra o XAMPP, ligue o Apache, e no seu navegador vá até a [localhost](http://localhost/)
 
-6. Abra o XAMPP, ligue o Apache, e no seu navegador vá até a [localhost](http://localhost/)
-
-7. Pronto! O checker já está configurado para uso <3
+6. Pronto! O checker já está configurado para uso <3
 
 ## 💻 Quem fortaleceu o código foi:
 
