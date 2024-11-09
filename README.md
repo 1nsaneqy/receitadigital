@@ -4,7 +4,7 @@
 
 ## 👨🏼‍⚕️ Funcionalidades
 
-- **Crie receitas médicas ou Atestados Falsos**: Dentro do painel ``Receita Digital`` do **Doutor**, terá permissão de fazer tudo o que foi dito anteriormente.
+- **Crie receitas médicas ou Atestados Falsos**: Dentro do painel ``Receita Digital`` do **Doutor**, terá permissão de fazer tudo o que foi dito anteriormente. (Use com Moderação)
 - **É recomendado o uso de VPN, particularmente sempre uso para todos painel.**
 - **Formatos de login suportados**:
   - `Email:senha`
